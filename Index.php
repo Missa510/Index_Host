@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Hola :3</h1>
-    <h3>Este es un hosting de prueba que de la la info de tu server y tu IP. Mira </h3><br>
+    <h3>Este es un hosting de prueba que de la la info de tu server y tu IP. Mira </h3> <br>
     <?php
 
     echo "<b>IP del servidor: </b>" . $_SERVER['SERVER_ADDR'] . "<br/>"; //Imprime la IP del servidor
