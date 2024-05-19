@@ -9,7 +9,7 @@
 <body>
     <h1>Hola :3</h1>
     <h3>Este es un hosting de prueba que de la la info de tu server y tu IP. Mira </h3> <br>
-    <?php
+    <?phple
 
     echo "<b>IP del servidor: </b>" . $_SERVER['SERVER_ADDR'] . "<br/>"; //Imprime la IP del servidor
     echo "<b>Nombre del servidor: </b>" . $_SERVER['SERVER_NAME'] . "<br/>"; //Imprime el nombre del servidor
